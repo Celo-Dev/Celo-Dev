@@ -4,4 +4,4 @@ Atualmente estou aprendendo Html, CSS, e através de ReactJs e Native realizo me
 Meu objetivo é me inserir na industria de desenvolvimento a fim de ganhar experencia e construir/aprimorar minhas habilidades.
 
 Meu Email: marcelohbpereira15@gmail.com
-LinkedIn: https://www.linkedin.com/in/marcelo-pereira-0b0642231/
+LinkedIn: https://www.linkedin.com/in/marcelobruzonpereira/
