@@ -1,8 +1,8 @@
 Olá !
 
-Me chamo Marcelo e estou iniciando minha jornada da programação como Desenvolvedor Front end.
-Atualmente estou em constante aprendizado, e através de ReactJs e Native realizo meus projetos e aplicações até o momento.
-Meu objetivo é me inserir na industria de desenvolvimento a fim de ganhar experencia e construir/aprimorar minhas habilidades.
+Me chamo Marcelo, e atuo como Desenvolvedor Front-End.
+Atualmente, realizo meus projetos e aplicações utilizando React JS , React Native e Angular, sempre buscando novas inovações e maneiras de aprimorar minhas habilidades. Sou apaixonado por aprender e me manter atualizado com as melhores práticas e ferramentas do mercado ! :)
+
 
 Email: marcelohbpereira15@gmail.com
 
