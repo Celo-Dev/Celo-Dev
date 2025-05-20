@@ -1,7 +1,7 @@
 Olá !
 
 Me chamo Marcelo, e atuo como Desenvolvedor Front-End.
-Atualmente, realizo meus projetos e aplicações utilizando React JS , React Native e Angular, sempre buscando novas inovações e maneiras de aprimorar minhas habilidades. Sou apaixonado por aprender e me manter atualizado com as melhores práticas e ferramentas do mercado ! :)
+Experiência no desenvolvimento de aplicações web e mobile. Atuando com foco em performance, experiência do usuário e integração de sistemas. Formado em Análise e Desenvolvimento de Sistemas, possuo vivência em ambientes corporativos, com boa comunicação entre equipes.Profissional proativo, adaptável e comprometido com a entrega de resultados.
 
 
 Email: marcelohbpereira15@gmail.com
